@@ -1,0 +1,72 @@
+.stty{   
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+  .login-form {
+    max-width: 300px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  .login-form-forgot {
+    float: right;
+  }
+
+  .login-form-button {
+    width: 100%;
+  }
+  
+  /* The Modal (background) */
+
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 10px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button 
+  {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    padding-bottom: 30px;
+    border-collapse: collapse;
+    cursor: pointer;
+    width: 400%;
+  }
+  
+  p {
+    margin: 0;
+  }
+  i {
+    cursor: pointer;
+  }
